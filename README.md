@@ -63,6 +63,7 @@ marks (Whole Module).
 8) Bar plot for the Comparison of individual & Whole module marks for the 
 Assessment year.
 9) Pie Chart for Comparing Overall Student Performance Across Years (UG & PG).
+
 Second, I began using the “Seaborn” library to accomplish the same data analysis and 
 visualisation. Seaborn is defined as a data visualisation library based on Matplotlib 
 that provides a high-level interface for producing appealing and informative statistical 
